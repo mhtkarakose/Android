@@ -1,0 +1,7 @@
+#Sun Nov 27 10:29:39 EET 2016
+base.0=C\:\\SqliteDatabaseExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f77edd7367a30f022b4feff04b4ee3406263227e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\SqliteDatabaseExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9399abb701314f9ad4dc742e1a62663e96e63c66\\classes.dex
+base.1=C\:\\SqliteDatabaseExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9399abb701314f9ad4dc742e1a62663e96e63c66
+file.0=C\:\\SqliteDatabaseExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f77edd7367a30f022b4feff04b4ee3406263227e\\classes.dex
