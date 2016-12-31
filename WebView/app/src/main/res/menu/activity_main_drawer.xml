@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Anasayfa" />
+        <item
+            android:id="@+id/nav_forex"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Forex" />
+
+        <item
+            android:id="@+id/nav_doviz"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Döviz" />
+        <item
+            android:id="@+id/nav_altin"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Altın" />
+        <item
+            android:id="@+id/nav_ekonomi"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Ekonomi" />
+        <item
+            android:id="@+id/nav_kosgeb"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Piyasa Tahminleri" />
+        <item
+            android:id="@+id/nav_piyasaTahminleri"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Piyasa Tahminleri" />
+        <item
+            android:id="@+id/nav_akaryakit"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Akaryakıt Haberleri" />
+
+    </group>
+
+    <item android:title="İletişim">
+        <menu>
+            <item
+                android:id="@+id/nav_ilesim"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Bize Yazın" />
+        </menu>
+    </item>
+
+</menu>
