@@ -6,6 +6,7 @@ Capture Video
 Task = Take and record video.
 
 Screenshots
+-------------
 
 <img src="Screenshots/capture video.png" height="400" alt="Screenshot"/> 
 
