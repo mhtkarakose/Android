@@ -1,6 +1,18 @@
 # Android
 Android Examples
 
+Capture Video
+
+Task = Take and record video.
+
+Screenshots
+
+<a href="#"><img src="http://www.mehmetkarakose.com/tr/capture-video/" alt="Örnek Resim"></a>
+
+
+
+- - - - - - - - - - - - - - -  - -  -
+
 EditText
 
 What is EditText? How to use EditText? 
