@@ -2,7 +2,7 @@
 Android Examples
 
 Capture Video
-
+-------------
 Task = Take and record video.
 
 Screenshots
