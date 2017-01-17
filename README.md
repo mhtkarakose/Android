@@ -7,7 +7,7 @@ Task = Take and record video.
 
 Screenshots
 
-<a href="#"><img src="http://www.mehmetkarakose.com/tr/capture-video/" alt="Örnek Resim"></a>
+<img src="Screenshots/capture video.png" height="400" alt="Screenshot"/> 
 
 
 
